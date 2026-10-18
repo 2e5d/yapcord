@@ -1,8 +1,8 @@
-# Yapper Mod Patcher
+# Yapcord Patcher
 
-Installs and removes the local **Yapper Mod** tweaks inside the Yapper desktop app.
+Installs and removes the local **Yapcord** tweaks inside the Yapper desktop app.
 
-The mod lives in a tab called **Yapper Mod** inside Yapper's own Settings, and it is
+The mod lives in a tab called **Yapcord** inside Yapper's own Settings, and it is
 entirely reversible: the original archive is kept and `uninstall` puts it back
 byte-for-byte.
 
@@ -88,7 +88,7 @@ yapper-mod-patcher/
 
 ## Features
 
-The mod adds a **Yapper Mod** tab to Yapper's Settings. Everything there is off
+The mod adds a **yapcord** tab to Yapper's Settings. Everything there is off
 by default.
 
 **Appearance** — media placeholders, window corner radius, backdrop media,
